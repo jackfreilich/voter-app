@@ -1,0 +1,5 @@
+#!/Users/jfreilich/votr/bin/python3.7
+
+from staticfy.staticfy import main
+
+main()
